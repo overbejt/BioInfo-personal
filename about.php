@@ -26,10 +26,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item ">
-            <a class="nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link active" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.php">About</a>
+            <a class="nav-link" href="about.php">About <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -52,9 +52,8 @@
     <div class="index-bg container-fluid">
         <div class="row ml-3 mr-3 pt-3"><!-- Main row -->
             <div clas="col-lg-8 col-md-8 col-sm-12 pl-2" style="margin-left: auto; margin-right: auto;"><!-- main col -->
-                <!-- <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwit-OPK3pjmAhVrmuAKHToBA8gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F262968065725473178%2F&psig=AOvVaw2zcqLyddz0BI-g8UpOWgK3&ust=1575437070749339" alt="moon image" width=auto height=auto> -->
-                <h1>Look what I can do</h1>
-                <p>I got this web server for free.  It isn't the fastest, but at least it's free.</p>
+                <h1>The About page</h1>
+                <p>This is where the about page content should go.</p>
             </div><!-- end of main col -->
         </div><!-- end of main row -->
     </div><!-- end of the main container -->
