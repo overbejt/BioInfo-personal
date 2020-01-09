@@ -54,7 +54,7 @@
             <div clas="col-lg-8 col-md-8 col-sm-12 pl-2" style="margin-left: auto; margin-right: auto;"><!-- main col -->
                 <!-- <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwit-OPK3pjmAhVrmuAKHToBA8gQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F262968065725473178%2F&psig=AOvVaw2zcqLyddz0BI-g8UpOWgK3&ust=1575437070749339" alt="moon image" width=auto height=auto> -->
                 <h1>Look what I can do</h1>
-                <p>I got this web server for free.  It isn't the fastest, but at least it's free.</p>
+                <p>I got this web server for free.  It isn't the fastest, but at least it's free.<br> And this just came from my new linux machine.</p>
             </div><!-- end of main col -->
         </div><!-- end of main row -->
     </div><!-- end of the main container -->
